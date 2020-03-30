@@ -1,0 +1,15 @@
+current directory: /Users/melia/Development/code/js-rails-as-api-using-fast-json-api-online-web-ft-120919/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/melia/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/melia/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200330-48641-107natz.rb extconf.rb
+creating Makefile
+
+current directory: /Users/melia/Development/code/js-rails-as-api-using-fast-json-api-online-web-ft-120919/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/melia/Development/code/js-rails-as-api-using-fast-json-api-online-web-ft-120919/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/melia/Development/code/js-rails-as-api-using-fast-json-api-online-web-ft-120919/vendor/cache/ruby/2.6.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200330-48641-1mh4qj9/bootsnap
